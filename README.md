@@ -1,2 +1,2 @@
 # general-harness
-General harness developed for Pi
+Dark's basic rules for code production
